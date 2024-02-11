@@ -44,8 +44,8 @@ const Home = () => {
           >
             I am excited about the possibilities that data holds and am open to
             collaboration with fellow data enthusiasts and organizations seeking
-            to harness the power of their information. If you're looking for a
-            dynamic Data Analyst or Data Scientist to join your team, let's
+            to harness the power of their information. If you are looking for a
+            dynamic Data Analyst or Data Scientist to join your team, lets
             connect!
           </motion.p>
           {/* btn */}

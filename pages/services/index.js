@@ -31,7 +31,7 @@ const Services = () => {
               exit="hidden"
               className=" mb-4 max-w-[400px] mx-auto lg:mx-0"
             >
-              Hello! I'm Suman Singh, a dedicated Data Analyst and Data
+              Hello! I am Suman Singh, a dedicated Data Analyst and Data
               Scientist with a mission to unravel the stories hidden within
               data.
             </motion.p>

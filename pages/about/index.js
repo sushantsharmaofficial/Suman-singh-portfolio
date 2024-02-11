@@ -211,7 +211,7 @@ const About = () => {
                   } cursor-pointer capitalize xl:text-lg relative after:w-8 after:h-[2px] after:bg-white after:absolute after:-bottom-1 after:left-0`}
                   onClick={() => setIndex(itemIndex)}
                 >
-                  {item.title}
+                  {item.title.replace("'", "&rsquo;")}
                 </div>
               );
             })}
